@@ -1,0 +1,52 @@
+Customer ID;Title;First Name;Middle Name;Last Name;Email;Phone Number;Street;City;Postal Code;Country;Birthday;Age;Subscription Date;Update Date
+CUST001;Mr.;Robert;Anna;Cain;robert.cain@outlook.com;14165551234;75944 John Forges;;;United States;25/10/1961;63;17/07/2021;01/06/2022
+CUST002;Ms.;Lisa;Brian;Williams;lisa.williams@example.fr;19055556789;34633 Sosa Fork;;;United States;11/06/1969;55;09/01/2023;22/11/2024
+CUST003;;Richard;Cameron;Beard;richard.beard@example.fr;16475552345;8474 Crystal Unions Suite 449;;;United States;29/09/1988;36;18/04/2021;05/01/2023
+CUST004;Mr.;Nicole;Gina;Obrien;nicole.obrien@outlook.com;16045553456;8603 Scott Turnpike Suite 266;South Madisonside;25568;United States;30/07/1997;27;27/02/2020;13/03/2021
+CUST005;Mr.;Jeremy;Travis;Leon;jeremy.leon@yahoo.com;14035554567;074 Ryan Loaf Suite 615;North Kimberly;;United States;28/08/1953;71;16/04/2023;02/04/2024
+CUST006;;Judy;Melanie;Johnson;judy.johnson@gmail.com;15875555678;003 Davis Forks;Kaylashire;;United States;28/12/1977;47;04/01/2023;13/05/2024
+CUST007;Ms.;David;Theresa;Woodward;david.woodward@gmail.com;17805556789;617 Dunn Fords;;99725;United States;15/07/1950;74;17/08/2022;03/10/2024
+CUST008;Mr.;Katherine;Courtney;Brown;katherine.brown@example.fr;16135557890;86619 Bell Club Suite 693;Reedshire;65247;United States;22/03/1988;36;07/11/2023;21/10/2024
+CUST009;Mr.;Tammy;Brandon;Lowe;tammy.lowe@gmail.com;18195558901;4680 Frazier Centers Apt. 032;East Tanya;;United States;24/01/1987;37;06/01/2024;15/07/2024
+CUST010;Prof.;David;Scott;Williams;david.williams@yahoo.com;12265559012;0356 Gould River;;;United States;28/06/1957;67;11/08/2022;05/09/2023
+CUST011;Dr.;Deborah;Michelle;Charles;deborah.charles@example.fr;13435551234;92843 Kerr Road;;72117;United States;04/10/1979;45;28/03/2021;28/10/2022
+CUST012;Mrs.;Hannah;David;Gray;hannah.gray@gmail.com;14375552345;194 Murphy Rue Suite 617;;;United States;26/08/1995;29;15/03/2022;21/09/2024
+CUST013;Mr.;John;Thomas;George;john.george@example.fr;14385553456;09403 Kurt Glen Apt. 904;East Laurenborough;;United States;05/08/1968;56;15/12/2022;28/05/2023
+CUST014;Dr.;Jennifer;Derrick;Bryan;jennifer.bryan@gmail.com;17785554567;2071 Franco Lane;;;United States;10/08/1994;30;11/07/2020;04/06/2023
+CUST015;Mr.;Courtney;Lisa;Dean;courtney.dean@gmail.com;19025555678;95631 Daniel Mount;;18637;United States;19/06/2000;24;22/03/2023;24/05/2024
+CUST016;Mrs.;Joshua;Katie;Cummings;joshua.cummings@gmail.com;A12505556789;609 Wayne Throughway Suite 003;Mercadoside;26924;United States;29/03/1950;74;05/11/2020;13/01/2021
+CUST017;;Alan;Randall;Dunn;alan.dunn@yahoo.com;13065557890;6989 Susan Neck Suite 266;Jenniferborough;66216;United States;10/09/1951;73;05/03/2022;25/08/2023
+CUST018;;Brian;Ryan;Kim;brian.kim@outlook.com;12045558901;70288 Andrew Crossroad Suite 822;Ronaldside;;United States;12/05/1964;60;18/10/2021;11/04/2024
+CUST019;Mr.;Eric;Terri;Lee;eric.lee@outlook.com;15065559012;075 Wright Village Apt. 441;;28430;United States;19/02/1951;73;15/07/2020;25/07/2024
+CUST020;Dr.;Ralph;Kelly;Pruitt;ralph.pruitt@example.fr;17095551234;4405 Marquez Parkways;;92966;United States;30/06/1957;67;07/10/2020;06/03/2022
+CUST021;;Cole;Oscar;Carter;cole.carter@yahoo.com;18675552345;72127 Kimberly Road;;;United States;01/10/1951;73;20/05/2024;03/08/2024
+CUST022;Mrs.;Vincent;Daniel;Davis;vincent.davis@yahoo.com;;216 Paul Roads;Lucerochester;;United States;17/05/1984;40;09/07/2020;31/07/2022
+CUST023;Mrs.;Jeremy;Kayla;Brown;jeremy.brown@yahoo.com;14505554567;36804 Davies Bridge Suite 061;;;United States;03/08/1947;77;03/03/2020;11/08/2023
+CUST024;Dr.;Andrea;Karen;Watson;andrea.watson@yahoo.com;15145555678;97854 Jenny Streets;;71103;United States;15/03/1978;46;15/11/2023;24/02/2024
+CUST025;Mr.;William;Adam;Knox;william.knox@example.fr;15815556789;623 Gonzalez Forge Suite 020;Salaschester;51016;United States;18/07/1953;71;31/10/2021;11/04/2022
+CUST026;Mr.;Joshua;John;Wilkinson;joshua.wilkinson@example.fr;18195557890;454 Wells Shoals;Moratown;;United States;09/03/1986;38;03/05/2024;25/09/2024
+CUST027;Prof.;Paul;Brandy;Hill;paul.hill@gmail.com;14 165 551 234;3416 Rachel Ranch;;;United States;23/12/1998;26;01/11/2021;19/04/2023
+CUST028;Prof.;Karen;Beverly;Martin;karen.martin@yahoo.com;19 055 556 789;619 Wright Ville Apt. 888;Kevinville;28071;United States;22/03/2001;23;03/09/2022;12/06/2024
+CUST029;Prof.;Kristie;Andrea;Edwards;kristie.edwards@yahoo.com;16 475 552 345;0173 Dawn Creek Apt. 332;Ericaside;94623;United States;22/10/1964;60;13/06/2024;18/10/2024
+CUST030;;James;Brandon;Parker;james.parker@example.fr;16 045 553 456;;Lake Cory;;United States;01/02/2000;24;29/12/2023;27/11/2024
+CUST031;;Tim;Eric;Miller;tim.miller@yahoo.com;;152 Carol Spur;;;United States;05/04/1953;71;06/03/2022;30/03/2022
+CUST032;Ms.;Shannon;Sara;Burgess;shannon.burgess@gmail.com;15 875 555 678;0854 Mccormick Summit Apt. 607;Sextonbury;;United States;17/06/1954;70;24/11/2021;04/06/2023
+CUST033;Ms.;Shawn;Randy;Garcia;shawn.garcia@outlook.com;17 805 556 789;946 Kelly Shores Apt. 294;;;United States;15/07/1995;29;09/10/2020;11/08/2021
+CUST034;Ms.;Joshua;Barry;Dennis;joshua.dennis@outlook.com;16 135 557 890;954 Anthony Keys Apt. 866;Torresburgh;3292;United States;03/12/1967;57;20/09/2022;07/10/2022
+CUST035;Ms.;Michael;Alicia;Meyer;Meyer@;18 195 558 901;684 Cody Ferry Apt. 222;Lake Ronaldborough;;United States;28/07/1990;34;17/07/2022;13/04/2023
+CUST036;Ms.;Brett;Curtis;Mccall;brett.mccall@outlook.com;12 265 559 012;75152 Maxwell Green Apt. 805;;;United States;08/06/1995;29;09/06/2021;08/05/2024
+CUST037;Mr.;Jasmine;Nancy;Rodriguez;jasmine.rodriguez@yahoo.com;13 435 551 234;;New Michaelton;48862;United States;17/11/1999;25;29/06/2020;28/12/2020
+CUST038;Prof.;Patricia;Mary;Hudson;patricia.hudson@yahoo.com;14 375 552 345;1051 Phillip Ridge Apt. 054;;50958;United States;26/03/2001;23;09/11/2024;16/11/2024
+CUST039;Mrs.;Allison;George;Townsend;allison.townsend@outlook.com;14 385 553 456;14801 Danielle Falls Suite 544;Sandrachester;67505;United States;16/12/1963;61;18/02/2020;22/07/2023
+CUST040;;Sherri;Jennifer;Henderson;sherri.henderson@yahoo.com;17 785 554 567;014 Allen Summit;;42483;United States;11/12/2003;21;01/05/2021;03/11/2023
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
