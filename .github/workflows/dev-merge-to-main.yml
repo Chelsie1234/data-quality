@@ -1,0 +1,22 @@
+# This action workflow will push the changes only when the Pull Request will be accepted
+name: On Dev Wait For The Pull Request Accepted
+
+on:
+  pull_request:
+    branches: [ "dev" ]
+    types: [closed]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check the code
+        uses: actions/checkout@v4 # Check the code
+
+      - name: Merge from dev to main
+        uses: everlytic/branch-merge@1.1.2
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          source_ref: 'dev' # Source branch is 'dev'
+          target_branch: 'main' # Target branch is 'main'
+          commit_message_template: '[Automated] Merged {source_ref} into target {target_branch}'
