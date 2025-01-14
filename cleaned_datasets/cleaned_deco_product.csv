@@ -1,0 +1,21 @@
+Product ID;Product Name;Category;Starting Price;Selling Price;Currency;Current Stock;Supplier;Update Date;Availability
+1;Decorative Vase;Vases;15.0;25.0;USD;100.0;HomeDecor Inc.;2024-11-06;Available
+2;Elegant Wall Mirror;Mirrors;50.0;55.0;USD;50.0;Luxury Living;2024-11-08;Available
+3;Wooden Frame;Frames;12.0;18.0;EUR;200.0;Rustic Charm;2024-11-12;Available
+4;Candle Holder;Candles;10.0;15.0;EUR;150.0;Cozy Creations;2024-11-10;Available
+5;Throw Pillow;Pillows;25.0;30.0;USD;100.0;Plush Home;2024-11-12;Out of Stock
+6;Decorative Bowl;Bowls;20.0;22.0;GBP;50.0;Global Traders;2024-11-13;Available
+7;Floor Lamp;Lighting;40.0;60.0;EUR;80.0;Elegant Lights;2024-11-05;Out of Stock
+8;Modern Art Painting;Art;100.0;150.0;USD;30.0;ArtWorks Co.;2024-11-07;Available
+9;Antique Clock;Clocks;75.0;100.0;EUR;10.0;Timeless Treasures;2024-11-04;Out of Stock
+10;Decorative Rug;Rugs;120.0;150.0;USD;-60.0;Rugs Plus;2024-11-09;Available
+11;Ceramic Pot;Pots;25.0;35.0;GBP;200.0;Greenhouse Goods;2024-11-13;Limited Stock
+12;Luxury Sofa;Furniture;300.0;450.0;USD;5.4;Luxe Comforts;2024-11-15;Limited Stock
+13;Fake Plant;Plants;20.0;30.0;USD;300.0;HomeDecor Inc.;2024-11-07;Available
+14;Crystal Vase;Vases;25.0;30.0;USD;0.0;Crystal Creations;2024-11-08;Available
+15;Abstract Sculpture;Art;150.0;180.0;EUR;15.0;Modern Artworks;2024-11-11;Available
+16;Decorative Tray;Trays;30.0;40.0;USD;120.0;Trendy Home;2024-11-03;Available
+17;Large Floor Mirror;Mirrors;75.0;85.0;EUR;20.0;Mirror Magic;2024-11-06;Available
+18;Velvet Curtains;Curtains;50.0;70.0;GBP;80.0;Elegant Home Goods;2024-11-02;Available
+19;Brass Lantern;Lighting;35.0;50.0;USD;60.0;Lantern Craft;2024-11-14;Available
+20;Wall Decal;Wall Art;10.0;15.0;EUR;0.0;WallArt Creations;2024-11-05;Out of Stock
