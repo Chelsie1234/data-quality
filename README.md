@@ -85,6 +85,8 @@ Regular code reviews ensure code quality and security. Tools and practices inclu
    pip install -r requirements.txt
    ```
 
+5. Connect the notebook to the new virtual environment we just created and run it.
+
 ### Usage
 * Run the scripts in the repository to perform data extraction, cleaning, and visualization.
 * Ensure encryption is applied based on the data's confidentiality level.
